@@ -16,7 +16,7 @@ Use these settings to eliminate false positives when the litter box is for examp
 measurements outside of the range defined here are ignored.
 
 CAT_MIN_WEIGHT              minimum weight of cat to expect
-CAT_MAX_WEIG                maximum weight of cat to expect */
+CAT_MAX_WEIGHT              maximum weight of cat to expect */
 
 #define CAT_MIN_WEIGHT 3.0
 #define CAT_MAX_WEIGHT 6.0
