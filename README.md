@@ -13,7 +13,7 @@ Configuration can be done through the `src/settings.h` file. As this file contai
 Copy the example file:
 
 ```
-cp src/settings.example.h src/settings.h`
+cp src/settings.example.h src/settings.h
 ```
 
 Then open the `src/settings.h` file in your editor of choice and follow the instructions provided in the comments.
